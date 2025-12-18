@@ -1,0 +1,22 @@
+# JMeter
+*.jtl
+jmeter.log
+
+# Reports
+reports/
+!reports/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if used)
+__pycache__/
+*.pyc
+
+# Node (if used)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
